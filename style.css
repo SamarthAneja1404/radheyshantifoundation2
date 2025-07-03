@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f6fef8;
+  color: #2f3e34;
+}
+
+header {
+  background-color: #d0e3d4;
+  padding: 1em;
+  text-align: center;
+  border-bottom: 2px solid #aac3b4;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #3e5d48;
+  font-weight: bold;
+}
+
+main {
+  padding: 2em;
+  background-image: url('https://www.transparenttextures.com/patterns/green-dust-and-scratches.png');
+}
+
+section.hero {
+  background-color: #e3f5e6;
+  padding: 2em;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  background-color: #d0e3d4;
+  padding: 1em;
+  margin-top: 2em;
+}
